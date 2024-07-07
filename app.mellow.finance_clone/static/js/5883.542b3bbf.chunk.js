@@ -1,0 +1,1 @@
+(self.webpackChunkmellow_front=self.webpackChunkmellow_front||[]).push([[5883],{35883:()=>{}}]);
